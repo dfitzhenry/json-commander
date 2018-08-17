@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dfitzhenry/json-commander.git"
-  },
+  "repository": "git+https://github.com/dfitzhenry/json-commander.git",
   "keywords": [
     "json",
     "viewer",
@@ -21,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/dfitzhenry/json-commander/issues"
   },
-  "homepage": "https://github.com/dfitzhenry/json-commander#readme"
+  "homepage": "https://github.com/dfitzhenry/json-commander#readme",
+  "private": false
 }
