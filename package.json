@@ -19,5 +19,9 @@
     "url": "https://github.com/dfitzhenry/json-commander/issues"
   },
   "homepage": "https://github.com/dfitzhenry/json-commander#readme",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.17.1"
+  }
 }
